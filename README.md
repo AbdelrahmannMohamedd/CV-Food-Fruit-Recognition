@@ -76,8 +76,3 @@ Each script saves its trained model to the project root (e.g. `model_part_a_bina
 - [ ] Part E — Fruit multi-class segmentation (31 classes)
 - [ ] Individual test scripts (Parts A–E)
 - [ ] Integrated test pipeline (classification + calorie estimation + segmentation)
-- [ ] Final report
-
-## License
-
-Academic project — for coursework purposes.
