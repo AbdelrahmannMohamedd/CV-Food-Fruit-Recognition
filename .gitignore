@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.Python
+*.ipynb_checkpoints/
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+
+# --- Dataset (do NOT upload raw data to GitHub) ---
+Project Data/
+Project Data/**
+*.rar
+*.zip
+*.7z
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs / temp outputs ---
+*.log
+outputs/
+predictions/
+*.txt.bak
+
+# --- Large model checkpoints you don't want tracked (optional) ---
+# Uncomment below if you decide NOT to upload trained models directly
+# *.h5
+# *.keras
