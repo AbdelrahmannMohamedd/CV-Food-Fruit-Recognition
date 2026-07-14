@@ -25,7 +25,7 @@ The pipeline is split into stages, following a two-stage identification approach
 └── README.md
 ```
 
-> **Note:** The dataset (`Project Data/`) is not included in this repository due to size. See [Dataset](#dataset) below.
+> **Note:** The dataset (`Project Data/`) is not included in this repository due to size.
 
 ## Models
 
